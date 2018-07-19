@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Buttons</string>
+    <string name="textview_1">FEEDBACK:</string>
+    <string name="button_1"></string>
+    <string-array name="Subject">
+        <item> C++ </item>
+    <item> java</item>
+    <item>python</item>
+    </string-array>
+</resources>
+
+
